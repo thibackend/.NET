@@ -1,0 +1,7 @@
+C:\THI PNV24A\C#_.Net\Declare\Declare\bin\Debug\Declare.exe.config
+C:\THI PNV24A\C#_.Net\Declare\Declare\bin\Debug\Declare.exe
+C:\THI PNV24A\C#_.Net\Declare\Declare\bin\Debug\Declare.pdb
+C:\THI PNV24A\C#_.Net\Declare\Declare\obj\Debug\Declare.csproj.AssemblyReference.cache
+C:\THI PNV24A\C#_.Net\Declare\Declare\obj\Debug\Declare.csproj.CoreCompileInputs.cache
+C:\THI PNV24A\C#_.Net\Declare\Declare\obj\Debug\Declare.exe
+C:\THI PNV24A\C#_.Net\Declare\Declare\obj\Debug\Declare.pdb

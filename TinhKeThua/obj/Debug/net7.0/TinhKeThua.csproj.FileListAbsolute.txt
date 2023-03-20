@@ -1,0 +1,15 @@
+C:\THI PNV24A\C#_.Net\TinhKeThua\bin\Debug\net7.0\TinhKeThua.exe
+C:\THI PNV24A\C#_.Net\TinhKeThua\bin\Debug\net7.0\TinhKeThua.deps.json
+C:\THI PNV24A\C#_.Net\TinhKeThua\bin\Debug\net7.0\TinhKeThua.runtimeconfig.json
+C:\THI PNV24A\C#_.Net\TinhKeThua\bin\Debug\net7.0\TinhKeThua.dll
+C:\THI PNV24A\C#_.Net\TinhKeThua\bin\Debug\net7.0\TinhKeThua.pdb
+C:\THI PNV24A\C#_.Net\TinhKeThua\obj\Debug\net7.0\TinhKeThua.csproj.AssemblyReference.cache
+C:\THI PNV24A\C#_.Net\TinhKeThua\obj\Debug\net7.0\TinhKeThua.GeneratedMSBuildEditorConfig.editorconfig
+C:\THI PNV24A\C#_.Net\TinhKeThua\obj\Debug\net7.0\TinhKeThua.AssemblyInfoInputs.cache
+C:\THI PNV24A\C#_.Net\TinhKeThua\obj\Debug\net7.0\TinhKeThua.AssemblyInfo.cs
+C:\THI PNV24A\C#_.Net\TinhKeThua\obj\Debug\net7.0\TinhKeThua.csproj.CoreCompileInputs.cache
+C:\THI PNV24A\C#_.Net\TinhKeThua\obj\Debug\net7.0\TinhKeThua.dll
+C:\THI PNV24A\C#_.Net\TinhKeThua\obj\Debug\net7.0\refint\TinhKeThua.dll
+C:\THI PNV24A\C#_.Net\TinhKeThua\obj\Debug\net7.0\TinhKeThua.pdb
+C:\THI PNV24A\C#_.Net\TinhKeThua\obj\Debug\net7.0\TinhKeThua.genruntimeconfig.cache
+C:\THI PNV24A\C#_.Net\TinhKeThua\obj\Debug\net7.0\ref\TinhKeThua.dll

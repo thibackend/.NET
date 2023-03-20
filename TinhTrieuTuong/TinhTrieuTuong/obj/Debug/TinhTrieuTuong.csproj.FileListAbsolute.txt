@@ -1,0 +1,6 @@
+C:\THI PNV24A\C#_.Net\TinhTrieuTuong\TinhTrieuTuong\bin\Debug\TinhTrieuTuong.exe.config
+C:\THI PNV24A\C#_.Net\TinhTrieuTuong\TinhTrieuTuong\bin\Debug\TinhTrieuTuong.exe
+C:\THI PNV24A\C#_.Net\TinhTrieuTuong\TinhTrieuTuong\bin\Debug\TinhTrieuTuong.pdb
+C:\THI PNV24A\C#_.Net\TinhTrieuTuong\TinhTrieuTuong\obj\Debug\TinhTrieuTuong.csproj.CoreCompileInputs.cache
+C:\THI PNV24A\C#_.Net\TinhTrieuTuong\TinhTrieuTuong\obj\Debug\TinhTrieuTuong.exe
+C:\THI PNV24A\C#_.Net\TinhTrieuTuong\TinhTrieuTuong\obj\Debug\TinhTrieuTuong.pdb

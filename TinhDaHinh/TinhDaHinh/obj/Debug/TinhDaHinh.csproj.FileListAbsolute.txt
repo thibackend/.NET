@@ -1,0 +1,7 @@
+C:\THI PNV24A\C#_.Net\TinhDaHinh\TinhDaHinh\bin\Debug\TinhDaHinh.exe.config
+C:\THI PNV24A\C#_.Net\TinhDaHinh\TinhDaHinh\bin\Debug\TinhDaHinh.exe
+C:\THI PNV24A\C#_.Net\TinhDaHinh\TinhDaHinh\bin\Debug\TinhDaHinh.pdb
+C:\THI PNV24A\C#_.Net\TinhDaHinh\TinhDaHinh\obj\Debug\TinhDaHinh.csproj.AssemblyReference.cache
+C:\THI PNV24A\C#_.Net\TinhDaHinh\TinhDaHinh\obj\Debug\TinhDaHinh.csproj.CoreCompileInputs.cache
+C:\THI PNV24A\C#_.Net\TinhDaHinh\TinhDaHinh\obj\Debug\TinhDaHinh.exe
+C:\THI PNV24A\C#_.Net\TinhDaHinh\TinhDaHinh\obj\Debug\TinhDaHinh.pdb

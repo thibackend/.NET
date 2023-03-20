@@ -1,0 +1,15 @@
+C:\THI PNV24A\C#_.Net\TinhDongGoi\bin\Debug\net7.0\TinhDongGoi.exe
+C:\THI PNV24A\C#_.Net\TinhDongGoi\bin\Debug\net7.0\TinhDongGoi.deps.json
+C:\THI PNV24A\C#_.Net\TinhDongGoi\bin\Debug\net7.0\TinhDongGoi.runtimeconfig.json
+C:\THI PNV24A\C#_.Net\TinhDongGoi\bin\Debug\net7.0\TinhDongGoi.dll
+C:\THI PNV24A\C#_.Net\TinhDongGoi\bin\Debug\net7.0\TinhDongGoi.pdb
+C:\THI PNV24A\C#_.Net\TinhDongGoi\obj\Debug\net7.0\TinhDongGoi.csproj.AssemblyReference.cache
+C:\THI PNV24A\C#_.Net\TinhDongGoi\obj\Debug\net7.0\TinhDongGoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\THI PNV24A\C#_.Net\TinhDongGoi\obj\Debug\net7.0\TinhDongGoi.AssemblyInfoInputs.cache
+C:\THI PNV24A\C#_.Net\TinhDongGoi\obj\Debug\net7.0\TinhDongGoi.AssemblyInfo.cs
+C:\THI PNV24A\C#_.Net\TinhDongGoi\obj\Debug\net7.0\TinhDongGoi.csproj.CoreCompileInputs.cache
+C:\THI PNV24A\C#_.Net\TinhDongGoi\obj\Debug\net7.0\TinhDongGoi.dll
+C:\THI PNV24A\C#_.Net\TinhDongGoi\obj\Debug\net7.0\refint\TinhDongGoi.dll
+C:\THI PNV24A\C#_.Net\TinhDongGoi\obj\Debug\net7.0\TinhDongGoi.pdb
+C:\THI PNV24A\C#_.Net\TinhDongGoi\obj\Debug\net7.0\TinhDongGoi.genruntimeconfig.cache
+C:\THI PNV24A\C#_.Net\TinhDongGoi\obj\Debug\net7.0\ref\TinhDongGoi.dll
